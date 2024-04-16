@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Switched to a new branch 'dev'...
 my modify
 other modify1
+other modify2
